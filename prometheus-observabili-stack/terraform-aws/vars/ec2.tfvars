@@ -1,6 +1,6 @@
 # EC2 Instance Variables
 region         = "us-east-1"
-ami_id         = "ami-xxxxxxxxxxxxxxxx"   3replace wit your own ami ID
+ami_id         = "ami-xxxxxxxxxxxxxxxx"   #replace wit your own ami ID
 instance_type  = "t3.micro"
 key_name       = "prometheus-stack-key"
 instance_count = 1
